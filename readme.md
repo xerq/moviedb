@@ -2,6 +2,7 @@
 
 # Requirements
 
+- NodeJS v8
 - MongoDB
 - OMDB Api Key - http://www.omdbapi.com/apikey.aspx
 
