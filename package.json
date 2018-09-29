@@ -4,6 +4,7 @@
   "description": "",
   "main": "dist/bin/index.js",
   "scripts": {
+    "heroku-postinstall": "npm run build",
     "test": "jest",
     "lint": "tslint -c tslint.json 'src/**/*.ts'",
     "start": "node dist/bin/index.js",
